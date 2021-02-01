@@ -1,1 +1,7 @@
 # Analysis-of-crime
+
+This report provides an analysis of crime in the state of North Carolina. The primary focus is to identify key determinants of crime and introduce policy suggestions that would lower the rates of crime. Given our focus on identifying potential policy decisions, we focus on variables that are more likely to be affectable by public policies such as severity of punishment and police presence. 
+
+Our primary research question is: To what extent does the threat of punishment associate with crime rate? To answer this question, we focus on 3 statistical models. Our key variables -- attending both to our goal, which aims to distill policy suggestions, to our related research question, which focuses on the threat of punishment, and to the best practice of starting with a small number of uncorrelated variables -- are probability of receiving a prison sentence and police per capita. We find probability of arrest, probability of conviction and average sentence to be rational and useful covariates.
+
+For the first model, we look only at our key variables: probability of prison sentence and police per capita. This is to assess the association between crime rate and both the severity of punishment and presence/strength of the police force. That is, when the perceived likelihood of being caught and the severity of punishment are higher, does there tend to be a lower rate of crime?
